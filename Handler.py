@@ -1,6 +1,5 @@
 """
     Author: Stefano Veglia
-    Student ID: 001270412
 """
 from Controller import Controller
 
