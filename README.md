@@ -1,0 +1,4 @@
+
+For my first-year Python project, I applied the basic principles of software engineering to create a social network structure. The program reads input from a text file, representing user data, and converts it into relationships between users, simulating a social network. Key features of the project include user creation, friendship management, friend suggestions, and analysis of social interactions. The project also implements core software engineering pillars such as modularity, abstraction, and encapsulation.
+
+Through this project, I demonstrated an understanding of key programming concepts like object-oriented design, class inheritance, and data handling. The program showcases how to manipulate user data, check for common friends, suggest new friends, and identify users with no or few friends. This structured approach helped solidify my foundational knowledge in Python while highlighting essential software development practices.
